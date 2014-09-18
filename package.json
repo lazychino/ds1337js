@@ -1,0 +1,15 @@
+{
+    "name": "ds1337",
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": "Pedro A. Melendez <lazy.chino@gmail.com>",
+    "repository" : { 
+        "type" : "git",
+        "url" : "http://github.com/lazychino/ds1337js.git"
+    },
+    "description": "node module for comunication with real-time clock ds1337",
+    "dependencies": {
+      "i2c": "0.1.x"
+    }
+}
+
